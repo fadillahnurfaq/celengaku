@@ -3,7 +3,7 @@ Aplikasi untuk mencatat tabungan memiliki fitur mendeteksi berapa lamanya waktu 
 
 
 ## Link Aplikasi
-https://drive.google.com/file/d/17cRs1v0Vrcb4thP_85A7-mVOaBYsn1dL/view?usp=share_link
+https://drive.google.com/file/d/1_W9qj2eTdmOIa4GcsP8iZ-UMqluXvL3p/view?usp=share_link
 
 ## Getting Started
 
