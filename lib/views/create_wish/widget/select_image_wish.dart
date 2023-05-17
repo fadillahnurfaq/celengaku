@@ -105,10 +105,9 @@ Widget _selectImageSourceModal(BuildContext context) {
             if (path == null) return;
 
             if (context.mounted) {
-              // context
-              //     .read<AddWishBloc>()
-              //     .add(WishImageChanged(imagePath: path));
-              // Navigator.pop(context);
+              context
+                  .read<AddWishBloc>()
+                  .add(WishImageChangedEvent(imagePath: path));
             }
           },
         ),
